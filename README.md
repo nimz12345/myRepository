@@ -1,4 +1,4 @@
 myRepository
 ============
 
-learning to code
+learning to code ... my first experience with git hub
